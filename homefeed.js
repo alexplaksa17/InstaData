@@ -2,7 +2,7 @@
   "data" : [
     {
      "id": 1,
-     "user": "get",
+     "user": "getA",
      "userIcon": "https://i1.sndcdn.com/artworks-000164359348-1noioy-t120x120.jpg",
      "photoUrl": "https://i1.sndcdn.com/artworks-000209742602-bmyqmy-t500x500.jpg",
      "text": "text1"
