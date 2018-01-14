@@ -3,7 +3,7 @@
     {
      "id": 1,
      "user": "getA",
-     "userIcon": "https://i1.sndcdn.com/artworks-000164359348-1noioy-t120x120.jpg",
+     "userIcon": "https://i1.sndcdn.com/artworks-000138719475-048wtj-t500x500.jpg",
      "photoUrl": "https://i1.sndcdn.com/artworks-000209742602-bmyqmy-t500x500.jpg",
      "text": "text1"
     },
